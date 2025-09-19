@@ -2,8 +2,7 @@ import java.util.Scanner;
 import java.io.*;
 class Main {
     public static void main(String[] args) {
-        System.out.println("Upward Triangle");
-        System.out.println("Inverted Triangle");
+        System.out.println("Right Angle Triangle Triangle");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Number of Rows:");
         int n = sc.nextInt();
