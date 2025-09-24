@@ -1,6 +1,5 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Arithmetic Operations in Arrays");
         int[] a = {2,4,6,8,10};
         int[] b = {1,3,5,7,9};
         int n = a.length;
@@ -26,3 +25,11 @@ class Main {
         System.out.println();
     }
 }
+
+/*
+OUTPUT
+Addition:3 7 11 15 19 
+Subtraction:1 1 1 1 1 
+Multiplication:2 12 30 56 90 
+Divison:2 1 1 1 1
+*/
