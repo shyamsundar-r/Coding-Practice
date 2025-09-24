@@ -1,6 +1,5 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Rotate The Array By K");
         int[] a = {2,4,6,8,10};
         int n = a.length;
         int k = 2;
@@ -14,3 +13,7 @@ class Main {
         }
     }
 }
+
+/*
+Rotated Array:8 10 2 4 6 
+*/
