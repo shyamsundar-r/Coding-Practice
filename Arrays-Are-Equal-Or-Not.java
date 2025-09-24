@@ -1,6 +1,5 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Arrays Are Equal Or Not");
         int[] a = {2,4,6,8,10};
         int[] b = {1,3,5,7,9};
         boolean res = true;
@@ -23,3 +22,8 @@ class Main {
         }
     }
 }
+
+/*
+OUTPUT
+Arrays are not Equal
+*/
